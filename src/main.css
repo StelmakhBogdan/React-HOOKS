@@ -1,0 +1,33 @@
+.nav-item a {
+    color: grey ;
+}
+
+.navbar {
+    background-color: #F8F8F8;
+    border-color: #E7E7E7;
+}
+
+.nav-link:hover {
+    border-bottom: 2px grey solid;
+    color: grey;
+}
+
+.nav-link:focus, .nav-link:active {
+    color: black;
+}
+
+.navbar-brand {
+    color: limegreen !important;
+}
+
+.nav-item .active {
+    color: black !important;
+}
+
+.auth-question {
+    color: chartreuse;
+}
+
+.auth-question:hover {
+    text-decoration: none;
+}
