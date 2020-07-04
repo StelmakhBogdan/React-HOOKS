@@ -1,33 +1,56 @@
-.nav-item a {
-    color: grey ;
-}
+/*body {*/
+/*    font-family: "Titillium Web", sans-serif;;*/
+/*}*/
+
+/*.nav-item a {*/
+/*    color: grey ;*/
+/*}*/
 
 .navbar {
     background-color: #F8F8F8;
     border-color: #E7E7E7;
 }
 
-.nav-link:hover {
-    border-bottom: 2px grey solid;
-    color: grey;
-}
+/*.nav-link:hover {*/
+/*    color: dimgrey;*/
+/*}*/
 
 .nav-link:focus, .nav-link:active {
     color: black;
+    border-bottom: 2px solid grey;
 }
 
-.navbar-brand {
-    color: limegreen !important;
-}
+/*.navbar-brand {*/
+/*    color: limegreen !important;*/
+/*}*/
 
-.nav-item .active {
-    color: black !important;
-}
+/*.nav-item .active {*/
+/*    color: black !important;*/
+/*}*/
 
-.auth-question {
-    color: chartreuse;
-}
+/*.auth-question {*/
+/*    color: chartreuse;*/
+/*}*/
 
-.auth-question:hover {
-    text-decoration: none;
+/*.auth-question:hover {*/
+/*    text-decoration: none;*/
+/*}*/
+
+/*.error-messages li {*/
+/*    color: red;*/
+/*    font-size: large;*/
+/*    font-weight: bold;*/
+/*}*/
+
+/*.nav-link .user-pic {*/
+/*    height: 26px;*/
+/*    border-radius: 50px;*/
+/*    float: left;*/
+/*    margin-right: 5px*/
+/*}*/
+
+.follow-btn {
+    float: right;
+    /*color: #999;*/
+    /*border: 1px solid #999;*/
 }
