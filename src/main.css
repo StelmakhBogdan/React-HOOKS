@@ -51,6 +51,11 @@
 
 .follow-btn {
     float: right;
+    margin-left: 5px;
     /*color: #999;*/
     /*border: 1px solid #999;*/
+}
+
+.article-meta {
+    display: flex;
 }
